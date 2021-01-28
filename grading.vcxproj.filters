@@ -18,5 +18,19 @@
     <ClCompile Include="grading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CCourse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CStudent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CCourse.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CStudent.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
